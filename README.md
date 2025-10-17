@@ -1,2 +1,2 @@
 # Inventory-Gudang
-! [Tampilan Aplikasi]()
+! [Tampilan Aplikasi](https://github.com/achill75/Inventory-Gudang/issues/1)
