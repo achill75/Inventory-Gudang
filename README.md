@@ -1,1 +1,2 @@
 # Inventory-Gudang
+! [Tampilan Aplikasi]()
